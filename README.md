@@ -3,7 +3,7 @@
 
 ---
 
-### Data Scientist | Machine Learning Enthusiast | Software Developer
+### Data Scientist   |   Machine Learning Enthusiast   |   Software Developer
 ---------------------------------
 
 I am passionate about learning new things and growing my skills in various fields. 
